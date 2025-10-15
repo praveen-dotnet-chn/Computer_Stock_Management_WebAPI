@@ -1,0 +1,6 @@
+@Computer_Stock_Management_WebAPI_HostAddress = http://localhost:5213
+
+GET {{Computer_Stock_Management_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
